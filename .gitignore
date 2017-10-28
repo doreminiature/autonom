@@ -1,0 +1,7 @@
+/node_modules
+.npm
+.DS_Store
+.idea
+.idea/miniature.iml
+.idea/modules.xml
+.idea/workspace.xml

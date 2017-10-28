@@ -1,0 +1,1 @@
+![autonom](https://i.imgur.com/cGhVeJ1.png)
